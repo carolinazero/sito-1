@@ -5,3 +5,9 @@ h1 {
 p {
   color: aquamarine;
 }
+
+div {
+  background-color: brown;
+  border-color: black;
+  border-radius: 20%;
+}
